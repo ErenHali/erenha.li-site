@@ -1,6 +1,6 @@
 ---
 title: ""
-description: "About section"
+description: About section
 ---
 
 ## About the author

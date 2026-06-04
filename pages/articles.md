@@ -1,6 +1,6 @@
 ---
 title: ""
-description: "Aricles list"
+description: Articles list
 ---
 
 ## Articles

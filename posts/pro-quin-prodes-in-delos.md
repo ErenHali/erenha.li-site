@@ -1,7 +1,7 @@
 ---
-title: "Pro quin prodes in Delos"
-description: "Pallade alii vestrum marmore Iovis, Troiani."
-date: "2024-10-25"
+title: Pro quin prodes in Delos
+description: Pallade alii vestrum marmore Iovis, Troiani.
+date: 2024-10-25
 ---
 
 Lorem markdownum *clipei virginis* Pallade alii vestrum marmore Iovis, Troiani. Ipse sublimis nam quid eratque ara summa terra trifida tum istis sedem, Haemonio. Si mare, **exemplumque nihil** vestem [diversa aera](http://abtabellis.com/ulterius) succeditis **corpora**. Est palluit tota; aquosis quos hippomene refert resque, segetes conripimus intravit luctu!

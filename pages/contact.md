@@ -1,6 +1,6 @@
 ---
 title: ""
-description: "Contact the author"
+description: Contact the author
 ---
 
 ## Contact
