@@ -1,7 +1,6 @@
 ---
 title: ""
 description: "Aricles list"
-navIndex: 1
 ---
 
 ## Articles
