@@ -1,7 +1,6 @@
 ---
 title: ""
-description: "About section"
-navIndex: 4
+description: About section
 ---
 
 ## About the author

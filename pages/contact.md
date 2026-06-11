@@ -1,7 +1,6 @@
 ---
 title: ""
-description: "Contact the author"
-navIndex: 4
+description: Contact the author
 ---
 
 ## Contact
