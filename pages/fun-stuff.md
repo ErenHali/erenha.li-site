@@ -1,9 +1,15 @@
 ---
 title: ""
-description: "All the miscellaneous things"
+description: "Sevgili kedim"
 navIndex: 3
 ---
 
-## Miscellaneous
+![Perfecto](./suzi/suzi0.jpg)
 
-Under construction.
+![Simarik](./suzi/suzi1.jpg)
+
+![Trabzon tas firin ekmegi](./suzi/suzi2.jpg)
+
+![Cicegim](./suzi/suzi3.jpg)
+
+![Aptal](./suzi/suzi4.jpg)

@@ -4,9 +4,9 @@ description: "Aricles list"
 navIndex: 1
 ---
 
-## Articles
+## Yazılar
 
-[Is There Anything Better to Do Expect This](/pro-quin-prodes-in-delos)
+[Yazı #1](/pro-quin-prodes-in-delos)
 
-[Is There Anything Better to Do Expect That](/worth-a-thousand-words.mdoc)
+[Yazı #2](/worth-a-thousand-words.mdoc)
 
