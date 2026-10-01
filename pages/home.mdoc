@@ -8,23 +8,27 @@ navIndex: 2
 
 _"Herhangi bir şey yapmak, hiçbir şey yapmamaya yeğdir."_ {% .fly-text-center %}
 
--Aforizma {% .fly-text-center %}
+-Önemli birisi {% .fly-text-center %}
 
 {% block features="a-list a-center" %}
 
-[[İletişim]](/contact)
+[[İletişim]](/iletisim)
 
-[[Yazar hakkında]](/about)
+[[Hakkında]](/hakkinda)
 
 [[RSS]](/rss.xml)
 
 {% /block %}
+<!-- 
+## Yazılar
 
-## Eren Öneriyor
+Bence buna gerek kalmadı zaten fikirler sayfası var
+-->
+## Günlük
 
-Sayfa linki eklenecek, önerilecek yazı bulunursa.
+{% blog postCount=10/ %}
 
-## Son Yazılar
-
-{% blog postCount=5/ %}
-
+<!-- 
+"Eleştirmenlerin Yorumları" gibi bir alt başlık ve insanların attıkları mail'leri sergilediğim güzel bir alt köşe.
+Belki bunu yeni bir sayfada da toplayabilirim. Home çok kalabalık olur. İletişim de tutmak daha iyi bir fikir gibi
+-->

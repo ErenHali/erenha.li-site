@@ -5,8 +5,10 @@ navIndex: 3
 ---
 
 ![Perfecto](./suzi/suzi0.jpg)
-
-![Simarik](./suzi/suzi1.jpg)
+<!--
+<img src="/suzi/suzi0.jpg" width="1008" height="756"/>
+-->
+![](./suzi/suzi1.jpg)
 
 ![Trabzon tas firin ekmegi](./suzi/suzi2.jpg)
 
