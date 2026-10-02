@@ -10,7 +10,7 @@ navIndex: 1
 -->
 _1. 2026'da neden hala websitesi, sosyal medya varken?_
 
-_2. İnsanı insana benzetmekte çabamız_
+_2. İnsanı insana benzetmekteki çabamız_
 
 _3. İnsanları sınıflandırmaya çalışmak, Eren titiz biridir._
 
