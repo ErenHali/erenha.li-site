@@ -71,4 +71,5 @@ date: 2026-05-23
 ## Showcase
 
 - [erenha.li](https://erenha.li)
+- [monata.me](https://monata.me)
 - [ogoregen.com](https://ogoregen.com)
