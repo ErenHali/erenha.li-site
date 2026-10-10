@@ -1,0 +1,6 @@
+{
+	"title": "A-Blog",
+	"description": "Customizable, extensible, complete Astro blog",
+	"site": "https://ogoregen.github.io",
+ 	"base": "/a-blog"
+}

@@ -1,0 +1,9 @@
+---
+import config from "../../site/config.json";
+
+const { path, title } = Astro.props;
+
+let currentPath = Astro.url.pathname.slice(config.base.length).replace(/\/$/, '');
+---
+
+<a href=`${config.base}/${path}` class:list={[currentPath.replace(/^\//, '') ===  path ? 'a-nav-active' : '', Astro.props.class]}>{title}</a>

@@ -1,0 +1,25 @@
+---
+import config from "../../site/config.json";
+import { getCollection} from 'astro:content';
+
+const count = Astro.props.count;
+const showDescription = Astro.props['show-description'];
+const showDate = Astro.props['show-date'];
+
+let posts = (await getCollection('posts')).sort((a, b) => new Date(b.data.date ?? 0) - new Date(a.data.date ?? 0));
+
+if (count) posts = posts.slice(0, count);
+---
+
+{posts.length > 0 && posts.map(post =>
+    <div class:list={["a-margin-large-bottom", Astro.props.class]}>
+        <div class="a-flex a-flex-space-between a-margin-bottom a-flex-break-mobile">
+            <div class="a-margin-right">
+                <a href=`${config.base}/${post.id}` class="a-text-lead">{post.data.title}</a>
+                { showDescription && <p class="a-margin-none">{post.data.description}</p> }
+            </div>
+             { showDate && <p class="a-margin-none a-text-muted" style="flex-shrink: 0">{post.data.date}</p> }
+        </div>
+    </div>
+)}
+{posts.length == 0 && <div class="a-text-muted a-text-center">No posts yet</div>}

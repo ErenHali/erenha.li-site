@@ -1,0 +1,45 @@
+
+@use "variables.scss" as *;
+
+ul.a-nav {
+
+    list-style-type: none;
+    padding: 0;
+
+    & li {
+
+        display: inline;
+
+        &:not(:last-child) {
+            margin-right: $spacing;
+        }
+
+        & a {
+
+            text-decoration: none;
+            color: inherit;
+
+            &:hover {
+                color: $primary-color;
+            }
+        }
+    }
+}
+
+.a-nav-active {
+    color: $primary-color !important;
+}
+
+.a-card {
+    background-color: $muted-background-color;
+    padding: $spacing;
+}
+
+.a-flex-list-horizontal {
+
+	display: flex;
+
+	& *:not(:last-child) {
+		margin-right: $spacing;
+	}
+}
