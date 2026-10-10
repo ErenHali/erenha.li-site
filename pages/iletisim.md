@@ -5,7 +5,7 @@ navIndex: 4
 ---
 
 ## İletişim
-Bana düşüncelerinizi e-mail atın.
+Bana düşüncelerinizi e-mail atın. Rica ediyorum, kısa mesaj atmayın.
 
 erenhali99@gmail.com
 
